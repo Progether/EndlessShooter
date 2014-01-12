@@ -1,4 +1,5 @@
 #IntelliJ Files
 *.iml
 *.xml
-
+.idea/*
+out/*
